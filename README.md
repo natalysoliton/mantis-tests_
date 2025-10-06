@@ -1,2 +1,2 @@
-# mantis-tests_
-C# AQA Tests for the task 20
+# mantis-tests
+C# AQA Сетевые протоколы FTP, Telnet и работа с почтой
